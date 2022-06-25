@@ -3,4 +3,4 @@ project(win32_book_examples)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(win32_book_examples simple_window.cpp)
+add_executable(win32_book_examples simple_windows_with_handle_msg.cpp)
